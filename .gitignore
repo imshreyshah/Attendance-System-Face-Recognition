@@ -1,0 +1,4 @@
+face_recognition_data/training_dataset/
+face_recognition_data/__pycache__/
+attendance_system_facial_recognition/__pycache__/
+recognition/__pycache__/
